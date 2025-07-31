@@ -77,10 +77,10 @@
   <br>
   
   <!-- Main Stats -->
-  <img src="https://github-readme-stats.vercel.app/api?username=DraganStojcevski&show_icons=true&count_private=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=FF6B6B&text_color=FFFFFF&icon_color=FF6B6B&token=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" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=DraganStojcevski&show_icons=true&count_private=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=FF6B6B&text_color=FFFFFF&icon_color=FF6B6B&token=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" height="165"/>
   
   <!-- Top Languages -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DraganStojcevski&layout=compact&count_private=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=FF6B6B&text_color=FFFFFF&langs_count=8&token=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" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DraganStojcevski&layout=compact&count_private=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=FF6B6B&text_color=FFFFFF&langs_count=8&token=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" height="165"/>
   
   <!-- Contribution Graph -->
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=DraganStojcevski&theme=radical&hide_border=true&background=0D1117&stroke=FF6B6B&ring=FF6B6B&fire=FF6B6B&currStreakLabel=FF6B6B" alt="streak stats"/>
