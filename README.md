@@ -1,5 +1,5 @@
-<!-- Banner -->
-<h1 align="center">👋 Hi, I'm Dragan Stojchevski</h1>
+<!-- Header -->
+<h1 align="center">👋 Hi, I'm Kristijan Kralevski</h1>
 <h3 align="center">🚀 Full-Stack Developer | AI Enthusiast</h3>
 
 <!-- Typing Animation -->
@@ -9,15 +9,13 @@
 
 ---
 
-### 🌟 **About Me**
-- 💻 I specialize in **Full-Stack Web Development & Mobile Apps**
-- 🌱 Currently learning **Deep Learning & Computer Vision**
-- 🔥 Building **high-performance, scalable applications**
-- 📫 Contact me: **stojchevski.a23071@next.edu.mk**
-
+### 🌟 About Me
+- 💻 I specialize in Full-Stack Web & Mobile Development  
+- 🌱 Currently learning Deep Learning & Computer Vision  
+- 📫 Contact me: stojchevski.a23071@next.edu.mk  
 ---
 
-### 🛠️ **Tech Stack**
+### 🛠️ Tech Stack
 <p align="center">
   <!-- Frontend -->
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
@@ -45,19 +43,20 @@
 
 ---
 
-### 🔥 **GitHub Stats**
+### 🔥 GitHub Stats (Private Repos Included)
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=DraganStojcevski&show_icons=true&theme=radical" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DraganStojcevski&layout=compact&theme=radical" height="165"/>
+  <!-- Replace the URL below with your self-hosted GitHub Readme Stats URL -->
+  <img src="https://your-self-hosted-url/api?username=DraganStojchevski&show_icons=true&count_private=true&theme=radical" height="165"/>
+  <img src="https://your-self-hosted-url/api/top-langs/?username=DraganStojchevski&layout=compact&count_private=true&theme=radical" height="165"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=DraganStojcevski&theme=radical" alt="streak stats"/>
+  <img src="https://your-self-hosted-url/api/streak-stats/?user=DraganStojchevski&theme=radical" alt="streak stats"/>
 </p>
 
 ---
 
-### 🚀 **Featured Projects**
+### 🚀 Featured Projects
 <table>
   <tr>
     <td>
@@ -95,7 +94,7 @@
 
 ---
 
-### 📫 **Connect With Me**
+### 📫 Connect With Me
 <p align="center">
   <a href="https://www.linkedin.com/in/draganstojchevski/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
@@ -104,7 +103,6 @@
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
-
 
 ---
 
