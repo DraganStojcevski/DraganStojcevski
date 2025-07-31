@@ -13,8 +13,7 @@
 - 💻 I specialize in **Full-Stack Web Development & Mobile Apps**
 - 🌱 Currently learning **Deep Learning & Computer Vision**
 - 🔥 Building **high-performance, scalable applications**
-- 📫 Contact me: **kristijan@example.com**
-- 🌍 Portfolio: [yourwebsite.com](https://yourwebsite.com)
+- 📫 Contact me: **stojchevski.a23071@next.edu.mk**
 
 ---
 
@@ -48,12 +47,12 @@
 
 ### 🔥 **GitHub Stats**
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=draganstojchevski&show_icons=true&theme=radical" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=draganstojchevski&layout=compact&theme=radical" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=DraganStojcevski&show_icons=true&theme=radical" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DraganStojcevski&layout=compact&theme=radical" height="165"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=draganstojchevski&theme=radical" alt="streak stats"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=DraganStojcevski&theme=radical" alt="streak stats"/>
 </p>
 
 ---
