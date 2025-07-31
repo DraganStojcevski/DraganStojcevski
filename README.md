@@ -77,16 +77,16 @@
   <br>
   
   <!-- Main Stats -->
-  <img src="https://github-readme-stats.vercel.app/api?username=DraganStojchevski&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=FF6B6B&text_color=FFFFFF&icon_color=FF6B6B" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=DraganStojcevski&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=FF6B6B&text_color=FFFFFF&icon_color=FF6B6B" height="165"/>
   
   <!-- Top Languages -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DraganStojchevski&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=FF6B6B&text_color=FFFFFF&langs_count=8" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DraganStojcevski&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=FF6B6B&text_color=FFFFFF&langs_count=8" height="165"/>
   
   <!-- Contribution Graph -->
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=DraganStojchevski&theme=radical&hide_border=true&background=0D1117&stroke=FF6B6B&ring=FF6B6B&fire=FF6B6B&currStreakLabel=FF6B6B" alt="streak stats"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=DraganStojcevski&theme=radical&hide_border=true&background=0D1117&stroke=FF6B6B&ring=FF6B6B&fire=FF6B6B&currStreakLabel=FF6B6B" alt="streak stats"/>
   
   <!-- Activity Graph -->
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=DraganStojchevski&theme=radical&hide_border=true&bg_color=0D1117&color=FF6B6B&line=FF6B6B&point=FFFFFF" alt="activity graph"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=DraganStojcevski&theme=radical&hide_border=true&bg_color=0D1117&color=FF6B6B&line=FF6B6B&point=FFFFFF" alt="activity graph"/>
 </div>
 
 ---
@@ -177,7 +177,7 @@
   
   <br>
   
-  <img src="https://komarev.com/ghpvc/?username=DraganStojchevski&style=flat-square&color=FF6B6B" alt="profile views" />
+  <img src="https://komarev.com/ghpvc/?username=DraganStojcevski&style=flat-square&color=FF6B6B" alt="profile views" />
   
   <br>
   
