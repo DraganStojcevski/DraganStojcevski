@@ -1,6 +1,6 @@
 <!-- Banner -->
 <h1 align="center">👋 Hi, I'm Dragan Stojchevski</h1>
-<h3 align="center">🚀 Full-Stack Developer | AI Enthusiast | Open Source Contributor</h3>
+<h3 align="center">🚀 Full-Stack Developer | AI Enthusiast</h3>
 
 <!-- Typing Animation -->
 <p align="center">
