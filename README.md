@@ -77,10 +77,10 @@
   <br>
   
   <!-- Main Stats -->
-  <img src="https://github-readme-stats.vercel.app/api?username=DraganStojcevski&show_icons=true&count_private=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=FF6B6B&text_color=FFFFFF&icon_color=FF6B6B&token=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" height="165"/>
+  <img src="https://dragan-stojcevski-5j1z0yczb-draganstojcevskis-projects.vercel.app/api/github-stats?username=DraganStojcevski" height="165"/>
   
   <!-- Top Languages -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DraganStojcevski&layout=compact&count_private=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=FF6B6B&text_color=FFFFFF&langs_count=8&token=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" height="165"/>
+  <img src="https://dragan-stojcevski-5j1z0yczb-draganstojcevskis-projects.vercel.app/api/github-stats?username=DraganStojcevski&type=languages" height="165"/>
   
   <!-- Contribution Graph -->
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=DraganStojcevski&theme=radical&hide_border=true&background=0D1117&stroke=FF6B6B&ring=FF6B6B&fire=FF6B6B&currStreakLabel=FF6B6B" alt="streak stats"/>
