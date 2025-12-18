@@ -91,14 +91,14 @@ Most of my experience comes from **real client and startup projects**, where I w
 
 <p align="center">
   <img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight&hide_border=true" />
+  <img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=DraganStojcevski&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
 
 ## 🔥 Contribution Activity
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=tokyo-night&hide_border=true" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=DraganStojcevski&theme=tokyo-night&hide_border=true" />
 </p>
 
 > Includes private contributions (count only)
@@ -107,7 +107,7 @@ Most of my experience comes from **real client and startup projects**, where I w
 
 ## 🏆 Achievements
 <p>
-  <img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=tokyonight&no-frame=true&row=1&column=6" />
+  <img src="https://github-profile-trophy.vercel.app/?username=DraganStojcevski&theme=tokyonight&no-frame=true&row=1&column=6" />
 </p>
 
 ---
